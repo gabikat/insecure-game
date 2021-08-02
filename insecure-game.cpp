@@ -5,7 +5,7 @@ Purposefully exploitable code
 Authors: GW and SE
 
 Game: Guess a random number. Your score is determined by the number
-of times your were consecutively within 35 steps of the random numbers generated.
+of times you were consecutively within 35 steps of the random numbers generated.
 
 Usage:
 ./guessinggame Username
